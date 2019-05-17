@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          peppercloud assignment submitted by Jijendiran
+          Pepper Cloud assignment done by Jijendiran
         </p>
         <a
           className="App-link"
