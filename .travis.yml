@@ -8,7 +8,7 @@ script:
 - npm test
 deploy:
   provider: heroku
-  github-token: 608cff18e30f9fb86d33322e4a20a42f0f3cbc6b
+  github-token: $GITHUB_TOKEN
   on:
     branch: master
   api_key:
